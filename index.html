@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do tempo</title>
+
+    <link rel="stylesheet" href="assets/styles/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-header__title">Previsão do tempo</h1>
+    </header>
+
+    <main class="container">
+        <div class="container-city">
+            <input class="input-city" placeholder="Digite o nome da cidade">
+            <button class="button-city" onclick="clickButtom()"><img src="https://www.svgrepo.com/show/488200/find.svg" alt="Busca"></button>
+
+            <div class="container-medium">
+                <h2 class="city">Clima</h2>
+
+                <p class="temp">0°C</p>
+
+                <div class="container-smaller">
+                    <img class="img-climate" src="https://openweathermap.org/img/wn/04n.png" alt="Nublado"><p class="text-climate">Nublado</p>
+                </div>
+
+                <p class="humidity">Umidade: </p>
+            </div>
+        </div>
+    </main>
+
+    <script src="assets/scripts/scripts.js"></script>
+</body>
+</html>
