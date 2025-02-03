@@ -42,4 +42,4 @@
 🔸 Dicas baseadas no clima, fornecendo sugestões personalizadas como "Leve um guarda-chuva! 🌧" ou "Use protetor solar! ☀".<br>
 🔸 Sensação térmica, mostrando um valor mais realista com base na umidade e no vento.
 
-## Estou sempre aberto a feedbacks e colaborações! Vamos trocar ideias? 😊
+## Estou sempre aberto a feedbacks e colaborações! Entre em contato! Vamos trocar ideias? 😊
